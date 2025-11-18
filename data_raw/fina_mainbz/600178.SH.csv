@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600178.SH,20241231,东部,D,1025328131.39,15027073.49,1010301057.9,CNY
 600178.SH,20241231,其他业务,P,65058220.11,36478185.22,28580034.89,CNY
 600178.SH,20241231,其他销售模式,455006000,293425390.64,25390810.92,268034579.72,CNY

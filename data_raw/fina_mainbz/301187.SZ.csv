@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 301187.SZ,20241231,电气机械及器材制造业,I,1763949390.61,600675625.96,1163273764.65,CNY
 301187.SZ,20241231,OBM,455006000,49146514.36,14688594.01,34457920.35,CNY
 301187.SZ,20241231,ODM,455006000,795540712.02,210359169.82,585181542.2,CNY

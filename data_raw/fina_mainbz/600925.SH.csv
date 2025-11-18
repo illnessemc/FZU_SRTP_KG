@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600925.SH,20241231,煤矿托管劳务(行业),I,831856223.35,173230946.6,658625276.75,CNY
 600925.SH,20241231,新疆,D,3191848863.15,1748590982.96,1443257880.19,CNY
 600925.SH,20241231,直接销售,455006000,13805073958.68,4487327873.75,9317746084.93,CNY

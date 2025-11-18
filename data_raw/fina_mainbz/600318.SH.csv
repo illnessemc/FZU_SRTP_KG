@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600318.SH,20241231,融资担保,I,14396178.04,9431481.45,4964696.59,CNY
 600318.SH,20241231,担保收入,P,7188835.01,7187244.96,1590.05,CNY
 600318.SH,20241231,软件开发及维护,P,3768524.57,3097706.34,670818.23,CNY

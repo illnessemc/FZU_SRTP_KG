@@ -1,5 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
-688092.SH,20250630,销售商品,P,213895978.91,92727731.25,121168247.66,CNY
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688092.SH,20250630,销售商品,P,213895978.91,92727731.25,121168247.66,CNY
 688092.SH,20241231,经销,455006000,258567943.25,108544638.04,150023305.21,CNY
 688092.SH,20241231,智能切割行业,I,451288894.62,191068710.54,260220184.08,CNY

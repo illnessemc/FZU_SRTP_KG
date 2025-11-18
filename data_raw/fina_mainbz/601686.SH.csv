@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601686.SH,20241231,其他-其他,P,1077544488.85,80944425.09,996600063.76,CNY
 601686.SH,20241231,加工费,P,461374751.52,17961174.11,443413577.41,CNY
 601686.SH,20241231,租赁收入,P,37902236.21,10533691.02,27368545.19,CNY

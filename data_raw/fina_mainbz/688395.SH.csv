@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688395.SH,20241231,伺服系统,P,110822984.34,27613961.8,83209022.54,CNY
 688395.SH,20241231,中国大陆,D,334955904.92,113040311.82,221915593.1,CNY
 688395.SH,20241231,直销,455006000,142401290.57,46846014.85,95555275.72,CNY

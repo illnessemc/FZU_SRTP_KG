@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601816.SH,20241231,铁路运输,I,41784226309.13,19605165014.32,22179061294.81,CNY
 601816.SH,20241231,其他业务,P,372882299.06,,,CNY
 601816.SH,20241231,其他业务(地区),D,372882299.06,372834359.55,47939.51,CNY

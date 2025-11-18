@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603167.SH,20241231,其他主营业务,I,602224.54,-26606334.39,27208558.93,CNY
 603167.SH,20241231,货滚运输(行业),I,218576904.55,40867366.31,177709538.24,CNY
 603167.SH,20241231,客滚运输(行业),I,1598917261.43,498000008.06,1100917253.37,CNY

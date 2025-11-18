@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600692.SH,20241231,广告业务(行业),I,3381214.24,1395584.96,1985629.28,CNY
 600692.SH,20241231,太阳能发电,I,6910707.53,5100933.08,1809774.45,CNY
 600692.SH,20241231,农业(行业),I,1317425.08,-387233.47,1704658.55,CNY

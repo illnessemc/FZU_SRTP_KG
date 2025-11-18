@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603533.SH,20241231,衍生业务,I,775501275.8,472076654.44,303424621.36,CNY
 603533.SH,20241231,其他(行业),I,2978367.68,2886208.71,92158.97,CNY
 603533.SH,20241231,数字阅读(行业),I,1646747286.74,1316984569.9,329762716.84,CNY

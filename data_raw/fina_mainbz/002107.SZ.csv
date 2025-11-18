@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 002107.SZ,20250630,其他(地区),D,47660359.87,,,CNY
 002107.SZ,20250630,华北、东北,D,134679144.69,97326766.04,37352378.65,CNY
 002107.SZ,20250630,西南,D,39571126.4,,,CNY

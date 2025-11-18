@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688562.SH,20241231,东北,D,12175659.53,3628063.55,8547595.98,CNY
 688562.SH,20241231,直销,455006000,1127638167.38,208156561.59,919481605.79,CNY
 688562.SH,20241231,华中,D,9792220.25,1988277.72,7803942.53,CNY

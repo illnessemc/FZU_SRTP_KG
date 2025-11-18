@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603118.SH,20241231,网通业务-AP系列,P,1971689193.04,211924657.53,1759764535.51,CNY
 603118.SH,20241231,移动通信,P,153300646.55,60470811.26,92829835.29,CNY
 603118.SH,20241231,其他业务(行业),I,412131013.29,101554778.29,310576235.0,CNY

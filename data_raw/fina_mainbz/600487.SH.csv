@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600487.SH,20241231,其他业务(销售模式),455006000,529735479.68,8606061.35,521129418.33,CNY
 600487.SH,20241231,装卸仓储及其他,P,3196899948.59,450746872.07,2746153076.52,CNY
 600487.SH,20241231,制造业,I,58468668609.5,7725546144.5,50743122465.0,CNY

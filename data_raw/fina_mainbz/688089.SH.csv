@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688089.SH,20241231,直销,455006000,343634881.4,123490241.03,220144640.37,CNY
 688089.SH,20241231,ARA产品,P,390288564.35,172032491.95,218256072.4,CNY
 688089.SH,20241231,动物营养品,I,16424324.43,2646549.18,13777775.25,CNY

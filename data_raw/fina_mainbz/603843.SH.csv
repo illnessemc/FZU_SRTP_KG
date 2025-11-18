@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603843.SH,20241231,制造业,I,14546768.63,-6151104.02,20697872.65,CNY
 603843.SH,20241231,青海,D,390278139.8,-126057175.62,516335315.42,CNY
 603843.SH,20241231,服务业收入,I,41087973.97,14717476.57,26370497.4,CNY

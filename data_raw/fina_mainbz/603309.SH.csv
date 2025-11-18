@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603309.SH,20241231,内销(销售模式),455006000,682624247.88,382607691.09,300016556.79,CNY
 603309.SH,20241231,国外,D,797191870.87,283836201.11,513355669.76,CNY
 603309.SH,20241231,其他业务(行业),I,29519137.28,5701975.0,23817162.28,CNY

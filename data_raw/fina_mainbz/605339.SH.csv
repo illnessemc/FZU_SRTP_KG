@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605339.SH,20250630,其他业务,P,2525852.76,1604216.37,921636.39,CNY
 605339.SH,20250630,中国港澳台地区,D,1874952.04,413485.63,1461466.41,CNY
 605339.SH,20250630,马来西亚,D,1620983.84,146799.16,1474184.68,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600006.SH,20241231,其他业务(行业),I,45155704.32,29216020.98,15939683.34,CNY
 600006.SH,20241231,租金收入,P,26421021.02,-18537548.17,44958569.19,CNY
 600006.SH,20241231,轻型商用车,P,9157715621.15,-8989226.49,9166704847.64,CNY

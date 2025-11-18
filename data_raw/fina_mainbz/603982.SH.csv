@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603982.SH,20241231,其他业务(行业),I,7862097.12,675000.3,7187096.82,CNY
 603982.SH,20241231,汽车零部件行业,I,2279248361.35,8668576.17,2270579785.18,CNY
 603982.SH,20241231,新能源汽车零部件,P,1392432738.5,-86352204.2,1478784942.7,CNY

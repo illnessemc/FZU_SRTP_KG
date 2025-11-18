@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688012.SH,20241231,专用设备,P,7811810541.74,3109277940.37,4702532601.37,CNY
 688012.SH,20241231,备品备件,P,1163806868.27,560702336.51,603104531.76,CNY
 688012.SH,20241231,其他主营业务,P,89547687.68,52207280.41,37340407.27,CNY

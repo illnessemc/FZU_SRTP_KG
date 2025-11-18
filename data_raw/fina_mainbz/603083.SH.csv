@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603083.SH,20241231,计算机、通信和其他电子设备制造业,I,3649888766.59,766360902.3,2883527864.29,CNY
 603083.SH,20241231,中国大陆,D,270360312.99,28356097.14,242004215.85,CNY
 603083.SH,20241231,国外,D,3381690524.77,738036935.69,2643653589.08,CNY

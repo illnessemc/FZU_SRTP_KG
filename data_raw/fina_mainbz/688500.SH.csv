@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688500.SH,20241231,耐用消费品（行业）,I,79175654.66,17859832.46,61315822.2,CNY
 688500.SH,20241231,其他(行业),I,87008609.92,35844237.64,51164372.28,CNY
 688500.SH,20241231,华中,D,64344814.23,21381081.59,42963732.64,CNY

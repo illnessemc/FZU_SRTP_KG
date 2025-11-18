@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605258.SH,20241231,直销,455006000,836860015.54,151435721.97,685424293.57,CNY
 605258.SH,20241231,经销,455006000,16641684.26,4389038.3,12252645.96,CNY
 605258.SH,20241231,国外,D,110120502.49,36786038.46,73334464.03,CNY

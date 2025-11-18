@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688392.SH,20241231,非金属超声波设备,P,12195829.43,5446992.38,6748837.05,CNY
 688392.SH,20241231,其他业务,P,1057250.93,616862.04,440388.89,CNY
 688392.SH,20241231,半导体超声波设备,P,46930920.35,26587839.77,20343080.58,CNY

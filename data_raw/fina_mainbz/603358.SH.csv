@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603358.SH,20241231,中国大陆,D,4680574528.46,642890682.53,4037683845.93,CNY
 603358.SH,20241231,直销,455006000,4744541432.91,655670802.85,4088870630.06,CNY
 603358.SH,20241231,燃油汽车零部件,P,2973221660.81,403391721.46,2569829939.35,CNY

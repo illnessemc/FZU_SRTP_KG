@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600010.SH,20241231,型材,P,5681701515.9,175026602.2,5506674913.7,CNY
 600010.SH,20241231,西南,D,1150143863.57,70435354.75,1079708508.82,CNY
 600010.SH,20241231,其他-其他,P,188420787.43,24628866.9,163791920.53,CNY

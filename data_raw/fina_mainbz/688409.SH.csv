@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688409.SH,20241231,气体传输系统,P,879174100.0,186260900.0,692913200.0,CNY
 688409.SH,20241231,机械及机电零组件,P,2084071600.0,581764900.0,1502306700.0,CNY
 688409.SH,20241231,非集成电路,I,270002900.0,-6239400.0,276242300.0,CNY

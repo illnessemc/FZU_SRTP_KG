@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300125.SZ,20250630,太阳能电池业务,I,,,10945706.3,CNY
 300125.SZ,20250630,余热发电业务,I,,,89858.65,CNY
 300125.SZ,20250630,EPC工程业务,I,50775681.42,2783290.1,47992391.32,CNY

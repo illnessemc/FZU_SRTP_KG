@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688299.SH,20241231,中国大陆,D,697078347.33,135805598.89,561272748.44,CNY
 688299.SH,20241231,其他主营业务,P,126913354.7,-23792848.35,150706203.05,CNY
 688299.SH,20241231,直销,455006000,920370527.19,229532487.99,690838039.2,CNY

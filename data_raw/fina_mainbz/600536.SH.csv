@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600536.SH,20241231,房租及物业仓储,P,32846352.3,28373814.61,4472537.69,CNY
 600536.SH,20241231,软件服务业(行业),I,5165158587.13,1916605504.32,3248553082.81,CNY
 600536.SH,20241231,中国大陆,D,5109849087.05,1893047578.27,3216801508.78,CNY

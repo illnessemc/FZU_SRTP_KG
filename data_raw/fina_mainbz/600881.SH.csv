@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600881.SH,20241231,华东,D,84906682.12,57642334.51,27264347.61,CNY
 600881.SH,20241231,东北,D,6402451596.99,1290989438.81,5111462158.18,CNY
 600881.SH,20241231,商贸产业,P,328935339.02,122744821.56,206190517.46,CNY

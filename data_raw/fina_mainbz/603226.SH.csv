@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603226.SH,20241231,装饰材料行业,I,258530221.32,31335605.89,227194615.43,CNY
 603226.SH,20241231,中国大陆,D,336209967.15,37513784.61,298696182.54,CNY
 603226.SH,20241231,工程类,455006000,91752250.15,3966124.37,87786125.78,CNY

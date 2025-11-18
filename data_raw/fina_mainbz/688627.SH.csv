@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688627.SH,20241231,其他业务,P,,,-0.01,CNY
 688627.SH,20241231,直销,455006000,803129707.64,263551752.02,539577955.62,CNY
 688627.SH,20241231,老化检测设备,P,84410530.8,34805775.31,49604755.49,CNY

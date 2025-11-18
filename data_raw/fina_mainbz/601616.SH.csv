@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601616.SH,20241231,成套设备及电力电子产品,P,743128585.73,185602116.44,557526469.29,CNY
 601616.SH,20241231,元器件,P,264246487.21,93166304.44,171080182.77,CNY
 601616.SH,20241231,其他业务(行业),I,29558658.42,9728471.35,19830187.07,CNY

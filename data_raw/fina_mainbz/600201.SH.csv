@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600201.SH,20241231,其他,455006000,45448884.32,4480339.18,40968545.14,CNY
 600201.SH,20241231,其他主营业务,P,39916855.72,4372823.41,35544032.31,CNY
 600201.SH,20241231,其他行业,I,39916855.72,4372823.41,35544032.31,CNY

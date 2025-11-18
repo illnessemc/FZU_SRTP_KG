@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600696.SH,20241231,其他业务,P,16535555.79,-14578465.1,31114020.89,CNY
 600696.SH,20241231,华东,D,109466578.64,78940624.97,30525953.67,CNY
 600696.SH,20241231,其他酒,P,397128.19,70799.34,326328.85,CNY

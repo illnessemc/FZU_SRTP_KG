@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688219.SH,20241231,其他(地区),D,987039100.0,136891700.0,850147400.0,CNY
 688219.SH,20241231,其他主营业务,P,9651200.0,572100.0,9079100.0,CNY
 688219.SH,20241231,弹性体和其他工程材料,P,992821700.0,182302600.0,810519100.0,CNY

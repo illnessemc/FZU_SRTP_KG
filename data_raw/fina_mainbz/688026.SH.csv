@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688026.SH,20241231,生物培养类,P,171717300.0,73695900.0,98021400.0,CNY
 688026.SH,20241231,仪器设备及其他类,P,22596800.0,10051400.0,12545400.0,CNY
 688026.SH,20241231,国外,D,351034900.0,152024800.0,199010100.0,CNY

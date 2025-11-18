@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603017.SH,20241231,服务业收入,I,1321897097.78,393075737.55,928821360.23,CNY
 603017.SH,20241231,其他业务(地区),D,12635733.65,5359163.86,7276569.79,CNY
 603017.SH,20241231,其他(地区),D,76090451.23,29013701.66,47076749.57,CNY

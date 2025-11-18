@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688027.SH,20241231,量子保密通信产品,P,86928200.0,62310400.0,24617800.0,CNY
 688027.SH,20241231,量子通信行业,I,146422300.0,96136400.0,50285900.0,CNY
 688027.SH,20241231,华中,D,20080600.0,6479100.0,13601500.0,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 301626.SZ,20241231,国外,D,368126363.77,170298477.92,197827885.85,CNY
 301626.SZ,20241231,直接销售,455006000,942913592.5,381645009.87,561268582.63,CNY
 301626.SZ,20241231,其他主营业务,P,15362082.54,1708794.13,13653288.41,CNY

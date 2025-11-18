@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600580.SH,20241231,其他业务(行业),I,391048796.64,90285453.49,300763343.15,CNY
 600580.SH,20241231,风光储氢(行业),I,1241812629.59,262638230.83,979174398.76,CNY
 600580.SH,20241231,中国大陆,D,10137521622.51,2535667987.84,7601853634.67,CNY

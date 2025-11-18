@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601188.SH,20241231,其他业务(地区),D,276570.68,,,CNY
 601188.SH,20241231,东北,D,847097223.31,226836792.0,620260431.31,CNY
 601188.SH,20241231,公路建设开发管理(行业),I,369053425.04,144937782.4,224115642.64,CNY

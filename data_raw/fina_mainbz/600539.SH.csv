@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600539.SH,20241231,电子商务经销业务,P,373476056.23,45453164.7,328022891.53,CNY
 600539.SH,20241231,内销(净水龙头及配件),D,40577741.25,2943893.97,37633847.28,CNY
 600539.SH,20241231,电商代运营服务,P,50446065.02,32208844.51,18237220.51,CNY

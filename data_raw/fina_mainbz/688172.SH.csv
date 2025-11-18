@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688172.SH,20241231,国外,D,24224552.3,1469294.5,22755257.8,CNY
 688172.SH,20241231,制造与服务,P,748318319.75,-143174549.58,891492869.33,CNY
 688172.SH,20241231,集成电路,I,1650954065.29,268688399.58,1382265665.71,CNY

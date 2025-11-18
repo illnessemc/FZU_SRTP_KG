@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688278.SH,20241231,西南,D,448520582.26,413431036.37,35089545.89,CNY
 688278.SH,20241231,华北,D,390049699.77,370970452.7,19079247.07,CNY
 688278.SH,20241231,其他业务(行业),I,7745412.36,5871286.86,1874125.5,CNY

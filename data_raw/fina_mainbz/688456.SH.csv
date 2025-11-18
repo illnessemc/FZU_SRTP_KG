@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688456.SH,20241231,其他(行业),I,368157899.36,25919367.31,342238532.05,CNY
 688456.SH,20241231,其他业务(行业),I,24971496.11,8876037.75,16095458.36,CNY
 688456.SH,20241231,电机电刷,I,200071330.56,14528622.68,185542707.88,CNY

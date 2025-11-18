@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600371.SH,20241231,化肥产品,P,10819268.46,-59728.37,10878996.83,CNY
 600371.SH,20241231,西北,D,3665998.6,1351028.53,2314970.07,CNY
 600371.SH,20241231,其他业务,P,3797160.14,,,CNY

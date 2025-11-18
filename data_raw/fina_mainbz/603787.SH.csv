@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603787.SH,20241231,东北,D,37491755.07,7494147.08,29997607.99,CNY
 603787.SH,20241231,材料销售,P,986257272.64,72069574.09,914187698.55,CNY
 603787.SH,20241231,经销,455006000,1999571683.83,353686846.73,1645884837.1,CNY

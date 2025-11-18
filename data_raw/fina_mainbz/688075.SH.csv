@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688075.SH,20241231,体外诊断试剂,P,540698462.1,211423349.81,329275112.29,CNY
 688075.SH,20241231,其它,455006000,4215556.2,1186802.6,3028753.6,CNY
 688075.SH,20241231,ODM,455006000,353319785.35,159716596.9,193603188.45,CNY

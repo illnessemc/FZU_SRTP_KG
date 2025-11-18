@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601698.SH,20241231,中国大陆,D,1919052400.0,626168800.0,1292883600.0,CNY
 601698.SH,20241231,国外,D,622071600.0,77644900.0,544426700.0,CNY
 601698.SH,20231231,广播电视业务,I,2615695900.0,933984200.0,1681711700.0,CNY

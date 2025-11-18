@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688146.SH,20241231,化工材料,I,33860820.88,11840851.96,22019968.92,CNY
 688146.SH,20241231,化学制药,I,149566150.44,58747138.03,90819012.41,CNY
 688146.SH,20241231,锂电新能源,I,14693663.75,4653798.1,10039865.65,CNY

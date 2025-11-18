@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 301082.SZ,20241231,中国大陆,D,1906517185.4,207761330.11,1698755855.29,CNY
 301082.SZ,20241231,矿物绝缘电缆,P,238471044.79,21607588.17,216863456.62,CNY
 301082.SZ,20241231,直销,455006000,1911210361.41,208591680.45,1702618680.96,CNY

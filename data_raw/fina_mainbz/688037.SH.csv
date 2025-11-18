@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688037.SH,20241231,中国港澳台地区,D,52628683.16,26393809.33,26234873.83,CNY
 688037.SH,20241231,中国大陆,D,1601416414.49,571361396.82,1030055017.67,CNY
 688037.SH,20241231,直销,455006000,1709542532.71,629977350.95,1079565181.76,CNY

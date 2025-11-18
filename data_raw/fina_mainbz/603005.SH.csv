@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603005.SH,20241231,芯片封装,P,817219545.85,366350333.08,450869212.77,CNY
 603005.SH,20241231,中国大陆,D,330431418.6,125434923.09,204996495.51,CNY
 603005.SH,20241231,其他业务(地区),D,1080386.15,,,CNY

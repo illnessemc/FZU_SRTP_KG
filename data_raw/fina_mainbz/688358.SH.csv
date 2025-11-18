@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688358.SH,20241231,主机及备件-主机,P,427081865.44,247246849.79,179835015.65,CNY
 688358.SH,20241231,中国大陆,D,62864746.18,37782370.39,25082375.79,CNY
 688358.SH,20241231,国外,D,405260292.82,238112978.87,167147313.95,CNY

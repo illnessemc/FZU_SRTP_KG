@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688576.SH,20241231,其他业务(销售模式),455006000,103732.99,19682.36,84050.63,CNY
 688576.SH,20241231,配件销售,P,17807895.01,12586265.59,5221629.42,CNY
 688576.SH,20241231,耗材,P,258151638.11,188575614.99,69576023.12,CNY

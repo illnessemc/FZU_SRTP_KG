@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603068.SH,20241231,除中国大陆外其他地区,D,297787300.0,112468000.0,185319300.0,CNY
 603068.SH,20241231,中国港澳台地区及海外地区,D,297787300.0,112468000.0,185319300.0,CNY
 603068.SH,20241231,无线数传类,P,588969100.0,162392800.0,426576300.0,CNY

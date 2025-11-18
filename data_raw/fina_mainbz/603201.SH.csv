@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603201.SH,20241231,中国港澳台地区及海外地区,D,2266268073.37,507072521.67,1759195551.7,CNY
 603201.SH,20241231,中国大陆,D,710473315.68,83549827.67,626923488.01,CNY
 603201.SH,20241231,汽车配套零部件,P,1183171631.23,255249176.97,927922454.26,CNY

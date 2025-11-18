@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600335.SH,20241231,汽车流通运营服务,I,29044937401.48,943874693.33,28101062708.15,CNY
 600335.SH,20241231,其他业务(行业),I,472767585.98,374690004.57,98077581.41,CNY
 600335.SH,20241231,其他业务,P,472767585.98,374690004.57,98077581.41,CNY

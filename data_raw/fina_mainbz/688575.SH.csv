@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688575.SH,20241231,自产耗材,P,253542390.99,156177113.06,97365277.93,CNY
 688575.SH,20241231,自产仪器,P,239752927.98,94260027.63,145492900.35,CNY
 688575.SH,20241231,代理试剂,P,221771144.27,78188591.17,143582553.1,CNY

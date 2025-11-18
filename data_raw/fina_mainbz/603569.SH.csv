@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603569.SH,20241231,华中,D,211300300.0,19457000.0,191843300.0,CNY
 603569.SH,20241231,整车运输,P,2337078300.0,152431400.0,2184646900.0,CNY
 603569.SH,20241231,华东,D,540113000.0,43617700.0,496495300.0,CNY

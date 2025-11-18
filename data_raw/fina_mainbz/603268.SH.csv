@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603268.SH,20241231,中国大陆,D,118368969.65,6580967.79,111788001.86,CNY
 603268.SH,20241231,餐饮(行业),I,100126.42,71641.48,28484.94,CNY
 603268.SH,20241231,陶瓷行业,I,274503912.25,26796181.48,247707730.77,CNY

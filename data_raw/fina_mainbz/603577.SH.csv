@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603577.SH,20241231,角钢塔,P,3438390895.98,290756693.43,3147634202.55,CNY
 603577.SH,20241231,工业制造业,I,4263008895.16,394511988.59,3868496906.57,CNY
 603577.SH,20241231,中国大陆,D,4232813068.91,390198921.53,3842614147.38,CNY

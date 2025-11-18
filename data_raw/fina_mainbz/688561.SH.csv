@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688561.SH,20241231,信息安全行业,I,4331737191.81,2420688511.8,1911048680.01,CNY
 688561.SH,20241231,华东,D,847588069.63,515076674.49,332511395.14,CNY
 688561.SH,20241231,华中,D,217218276.68,137873315.07,79344961.61,CNY

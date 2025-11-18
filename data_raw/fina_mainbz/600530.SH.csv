@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600530.SH,20241231,保健品,P,157549876.79,73863828.81,83686047.98,CNY
 600530.SH,20241231,其他主营业务,P,167024994.65,23525368.73,143499625.92,CNY
 600530.SH,20241231,其他业务,P,607018.89,115202.22,491816.67,CNY

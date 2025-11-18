@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688283.SH,20241231,中国大陆,D,205263860.54,123441728.27,81822132.27,CNY
 688283.SH,20241231,直销,455006000,185378587.09,112372023.12,73006563.97,CNY
 688283.SH,20241231,仪器仪表制造业,I,205263860.54,123441728.27,81822132.27,CNY

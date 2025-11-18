@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688626.SH,20241231,其他业务,P,9902019.94,6742919.18,3159100.76,CNY
 688626.SH,20241231,物理康复医疗设备,P,504015493.38,341874912.68,162140580.7,CNY
 688626.SH,20241231,配件产品,P,37417699.5,23108116.83,14309582.67,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601677.SH,20241231,铝板带,P,25866489128.86,1668692512.96,24197796615.9,CNY
 601677.SH,20241231,铝箔,P,5235483058.25,373147500.92,4862335557.33,CNY
 601677.SH,20241231,国外,D,9094200608.12,287665618.7,8806534989.42,CNY

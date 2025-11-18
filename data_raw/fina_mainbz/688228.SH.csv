@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688228.SH,20241231,AI大模型与算力,P,123750493.1,36328836.47,87421656.63,CNY
 688228.SH,20241231,AI内容安全,P,94935415.54,75606641.87,19328773.67,CNY
 688228.SH,20241231,其他行业,I,312138300.0,142637600.0,169500700.0,CNY

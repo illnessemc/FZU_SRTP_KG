@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600328.SH,20241231,直销,455006000,6896220034.09,1435487748.4,5460732285.69,CNY
 600328.SH,20241231,药品,P,3449049101.65,156135771.01,3292913330.64,CNY
 600328.SH,20241231,经销商,455006000,5588044279.68,808188365.62,4779855914.06,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603269.SH,20241231,中国大陆,D,800470596.26,164301993.71,636168602.55,CNY
 603269.SH,20241231,其他业务(行业),I,1756588.83,1700152.46,56436.37,CNY
 603269.SH,20241231,安装调试,P,99262332.86,37927112.81,61335220.05,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600900.SH,20241231,其他主营业务,P,9806151371.86,3340319357.62,6465832014.24,CNY
 600900.SH,20241231,电力,P,74478717584.2,46557691000.65,27921026583.55,CNY
 600900.SH,20241231,其他业务,P,207001610.46,65514021.58,141487588.88,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603192.SH,20241231,聚氨酯弹性体原液,P,251824066.69,13454541.97,238369524.72,CNY
 603192.SH,20241231,其他业务(销售模式),455006000,117946955.0,2926214.82,115020740.18,CNY
 603192.SH,20241231,其他(地区),D,153290420.49,24311407.95,128979012.54,CNY

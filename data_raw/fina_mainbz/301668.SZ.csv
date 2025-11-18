@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 301668.SZ,20241231,西北,D,82792110.41,23129638.75,59662471.66,CNY
 301668.SZ,20241231,其他业务(销售模式),455006000,4630221.02,,,CNY
 301668.SZ,20241231,C-GIS智能环网柜,P,346074917.67,79916036.86,266158880.81,CNY

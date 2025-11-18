@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600558.SH,20241231,焊丝,P,1714970333.89,161200692.76,1553769641.13,CNY
 600558.SH,20241231,其他业务(行业),I,13398550.28,6466167.39,6932382.89,CNY
 600558.SH,20241231,国外,D,309730440.61,37383565.16,272346875.45,CNY

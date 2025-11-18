@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601113.SH,20241231,国外,D,2459404556.89,630562211.76,1828842345.13,CNY
 601113.SH,20241231,其他业务(行业),I,105069460.62,-2715544.78,107785005.4,CNY
 601113.SH,20241231,建造合同,P,30162272.21,2334745.05,27827527.16,CNY

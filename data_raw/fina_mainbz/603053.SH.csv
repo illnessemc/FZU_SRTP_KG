@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603053.SH,20241231,省内,D,5273730168.17,917429793.25,4356300374.92,CNY
 603053.SH,20241231,天然气销售,P,4494566308.03,615230256.85,3879336051.18,CNY
 603053.SH,20241231,入户安装,P,296428733.4,112849693.24,183579040.16,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603630.SH,20241231,经销渠道,455006000,623122986.1,248867273.51,374255712.59,CNY
 603630.SH,20241231,其他业务,P,716683.81,496635.45,220048.36,CNY
 603630.SH,20241231,东北,D,9902918.63,4745413.39,5157505.24,CNY

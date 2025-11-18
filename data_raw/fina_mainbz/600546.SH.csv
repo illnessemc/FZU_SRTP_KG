@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600546.SH,20241231,冶金煤炭,P,8719029100.0,5216345700.0,3502683400.0,CNY
 600546.SH,20241231,华北,D,12654012600.0,3690196600.0,8963816000.0,CNY
 600546.SH,20241231,其他(行业),I,77729200.0,18629900.0,59099300.0,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688569.SH,20241231,工务工程材料,P,143226328.51,36790628.32,106435700.19,CNY
 688569.SH,20241231,其他业务,P,10930246.02,2681135.03,8249110.99,CNY
 688569.SH,20241231,轨道部件加工服务,P,32815839.63,18289780.43,14526059.2,CNY

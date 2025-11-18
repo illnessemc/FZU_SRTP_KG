@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603730.SH,20241231,其他(行业),I,335092.46,7002.3,328090.16,CNY
 603730.SH,20241231,遮阳板,P,3938142230.9,1064774755.2,2873367475.7,CNY
 603730.SH,20241231,中国大陆,D,856207270.49,224051817.62,632155452.87,CNY

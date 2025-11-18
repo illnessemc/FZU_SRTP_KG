@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603727.SH,20241231,海洋油气开发模块(行业),I,2388436404.03,395189778.49,1993246625.54,CNY
 603727.SH,20241231,中国港澳台地区及海外地区,D,2622708379.73,418331558.04,2204376821.69,CNY
 603727.SH,20241231,其他业务(行业),I,17525387.08,10224305.6,7301081.48,CNY

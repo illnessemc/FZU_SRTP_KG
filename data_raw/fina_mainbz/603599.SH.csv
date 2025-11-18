@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603599.SH,20241231,其他业务(地区),D,12479890.51,9068664.04,3411226.47,CNY
 603599.SH,20241231,农药,P,2906301467.24,906622161.84,1999679305.4,CNY
 603599.SH,20241231,国外,D,1019531834.71,294316509.96,725215324.75,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603538.SH,20241231,其他业务(行业),I,4661013.03,864024.97,3796988.06,CNY
 603538.SH,20241231,药品经销及其他,P,405469948.85,138436996.17,267032952.68,CNY
 603538.SH,20241231,CDMO业务,P,121707818.3,38761929.46,82945888.84,CNY

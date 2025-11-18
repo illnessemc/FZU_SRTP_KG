@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603626.SH,20241231,中国大陆,D,1231538215.43,-84007135.17,1315545350.6,CNY
 603626.SH,20241231,直销,455006000,3340632350.75,148997965.16,3191634385.59,CNY
 603626.SH,20241231,新能源-储能业务,P,357945657.17,21603921.14,336341736.03,CNY

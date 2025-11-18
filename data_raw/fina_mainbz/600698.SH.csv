@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600698.SH,20241231,气门,P,70491234.72,9288240.01,61202994.71,CNY
 600698.SH,20241231,其他业务(行业),I,10033073.81,2915160.51,7117913.3,CNY
 600698.SH,20241231,其他业务(地区),D,10033073.81,2915160.51,7117913.3,CNY

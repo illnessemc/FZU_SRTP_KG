@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600106.SH,20241231,其他业务(行业),I,1558329.47,888168.69,670160.78,CNY
 600106.SH,20241231,路桥收费,I,111480812.8,94543794.48,16937018.32,CNY
 600106.SH,20231231,路桥收费,I,114474275.28,99482239.76,14992035.52,CNY

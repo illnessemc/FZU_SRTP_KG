@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603000.SH,20241231,其他(行业),I,65952364.0,45677492.83,20274871.17,CNY
 603000.SH,20241231,网络技术服务,P,111152346.51,63180799.15,47971547.36,CNY
 603000.SH,20241231,其他业务,P,65952364.0,45677492.83,20274871.17,CNY

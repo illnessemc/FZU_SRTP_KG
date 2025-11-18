@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688181.SH,20241231,其他-其他,P,215135.78,169168.09,45967.69,CNY
 688181.SH,20241231,工业收入,I,722628400.0,312052100.0,410576300.0,CNY
 688181.SH,20241231,销售材料,P,14529453.9,972454.13,13556999.77,CNY

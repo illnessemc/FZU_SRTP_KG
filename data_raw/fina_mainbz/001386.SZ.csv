@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 001386.SZ,20241231,零售,455006000,9590500.0,,,CNY
 001386.SZ,20241231,贸易类客户,455006000,310912300.0,,,CNY
 001386.SZ,20241231,受托生产销售模式,455006000,263042800.0,,,CNY

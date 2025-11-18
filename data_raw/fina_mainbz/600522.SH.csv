@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600522.SH,20241231,其他业务,P,478187430.23,183030821.86,295156608.37,CNY
 600522.SH,20241231,其他业务(行业),I,478187430.23,183030821.86,295156608.37,CNY
 600522.SH,20241231,国外,D,7328439648.87,1476106106.46,5852333542.41,CNY

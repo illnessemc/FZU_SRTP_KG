@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603069.SH,20241231,汽车客运(行业),I,492176720.77,40438377.15,451738343.62,CNY
 603069.SH,20241231,汽车销售综合服务,I,201952567.66,17836933.23,184115634.43,CNY
 603069.SH,20241231,汽修综合服务,P,293295324.48,77681642.99,215613681.49,CNY

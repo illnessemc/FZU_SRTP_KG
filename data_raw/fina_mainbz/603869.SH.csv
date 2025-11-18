@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603869.SH,20241231,聚安网,I,368925464.14,199236576.71,169688887.43,CNY
 603869.SH,20241231,其他业务(行业),I,2811078.57,1180443.23,1630635.34,CNY
 603869.SH,20241231,软件销售收入,P,419189185.61,208902521.71,210286663.9,CNY

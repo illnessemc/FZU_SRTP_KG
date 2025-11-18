@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601138.SH,20241231,其他业务,P,920797000.0,406323000.0,514474000.0,CNY
 601138.SH,20241231,其他业务(行业),I,920797000.0,406323000.0,514474000.0,CNY
 601138.SH,20241231,云服务设备(行业),I,319376590000.0,15952686000.0,303423904000.0,CNY

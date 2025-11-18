@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603166.SH,20241231,离合器,P,182845382.12,32915305.65,149930076.47,CNY
 603166.SH,20241231,直销,455006000,1558761286.93,410259563.7,1148501723.23,CNY
 603166.SH,20241231,曲轴毛坯,P,199281218.21,42954681.19,156326537.02,CNY

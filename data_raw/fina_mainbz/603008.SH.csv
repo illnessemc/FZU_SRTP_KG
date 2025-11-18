@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603008.SH,20241231,经销商,455006000,3211754500.0,1458308500.0,1753446000.0,CNY
 603008.SH,20241231,家具行业,I,8594091400.0,2875741400.0,5718350000.0,CNY
 603008.SH,20241231,沙发,P,719285900.0,134894100.0,584391800.0,CNY

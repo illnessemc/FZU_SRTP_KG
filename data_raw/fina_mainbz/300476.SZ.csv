@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300476.SZ,20241231,赊销,455006000,10731469489.88,2438662784.02,8292806705.86,CNY
 300476.SZ,20241231,PCB制造业,I,10050761971.53,1795267483.73,8255494487.8,CNY
 300476.SZ,20241231,PCB制造,P,10050761971.53,1795267483.73,8255494487.8,CNY

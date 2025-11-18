@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601609.SH,20241231,国外,D,12161328695.27,640530732.46,11520797962.81,CNY
 601609.SH,20241231,其他业务(地区),D,11170970651.02,286573654.47,10884396996.55,CNY
 601609.SH,20241231,铜加工,I,111693210899.1,2536466473.69,109156744425.41,CNY

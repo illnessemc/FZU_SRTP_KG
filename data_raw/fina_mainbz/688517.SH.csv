@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688517.SH,20241231,西南,D,88187604.3,34286280.5,53901323.8,CNY
 688517.SH,20241231,华北,D,83006614.98,34070486.87,48936128.11,CNY
 688517.SH,20241231,充电桩,P,34728168.5,6650110.37,28078058.13,CNY

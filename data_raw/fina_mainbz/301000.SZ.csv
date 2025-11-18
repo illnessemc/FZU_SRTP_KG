@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 301000.SZ,20241231,橡胶和塑料制品业,I,755938650.47,255825198.67,500113451.8,CNY
 301000.SZ,20241231,汽车部件,P,585176891.16,197800321.98,387376569.18,CNY
 301000.SZ,20241231,直销,455006000,755938650.47,255825198.67,500113451.8,CNY

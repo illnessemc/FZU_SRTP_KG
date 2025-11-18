@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688778.SH,20241231,国外,D,840978826.29,231676236.07,609302590.22,CNY
 688778.SH,20241231,直销,455006000,13200990244.1,1269797670.85,11931192573.25,CNY
 688778.SH,20241231,电池材料,I,13200990244.1,1269797670.85,11931192573.25,CNY

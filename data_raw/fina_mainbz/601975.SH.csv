@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601975.SH,20241231,船员租赁（行业）,I,147734167.82,8560953.56,139173214.26,CNY
 601975.SH,20241231,船舶管理,P,2536001.59,2529380.53,6621.06,CNY
 601975.SH,20241231,中国大陆,D,2279855099.95,680621885.69,1599233214.26,CNY

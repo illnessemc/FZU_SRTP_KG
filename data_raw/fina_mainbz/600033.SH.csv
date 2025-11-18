@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600033.SH,20241231,其他业务(行业),I,35151055.25,-27101379.92,62252435.17,CNY
 600033.SH,20241231,福建,D,2990729190.15,1738267820.92,1252461369.23,CNY
 600033.SH,20241231,其他业务,P,35151055.25,-27101379.92,62252435.17,CNY

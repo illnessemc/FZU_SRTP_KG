@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600104.SH,20241231,整车业务,P,381262343730.33,14728169007.37,366534174722.96,CNY
 600104.SH,20241231,金融业,I,13515884749.56,11508911161.99,2006973587.57,CNY
 600104.SH,20241231,其他业务,P,,,-2006973587.57,CNY

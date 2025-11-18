@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600379.SH,20241231,电气装备行业,I,904712826.08,180616102.43,724096723.65,CNY
 600379.SH,20241231,南方,D,544672786.65,77501375.04,467171411.61,CNY
 600379.SH,20241231,其他业务(地区),D,233329597.35,71123561.06,162206036.29,CNY

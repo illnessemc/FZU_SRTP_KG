@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688218.SH,20241231,其他业务(行业),I,5922722.41,3307583.24,2615139.17,CNY
 688218.SH,20241231,其他业务(销售模式),455006000,5922722.41,3307583.24,2615139.17,CNY
 688218.SH,20241231,其他主营业务,P,28595989.84,6074969.97,22521019.87,CNY

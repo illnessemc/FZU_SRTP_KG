@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600577.SH,20241231,漆包线,P,16124812682.44,1060719707.45,15064092974.99,CNY
 600577.SH,20241231,其他业务(地区),D,736579730.93,13439204.35,723140526.58,CNY
 600577.SH,20241231,加工制造业,I,21585989261.52,1287426650.36,20298562611.16,CNY

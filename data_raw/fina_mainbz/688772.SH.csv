@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688772.SH,20241231,动力类,P,917282687.6,-38163214.95,955445902.55,CNY
 688772.SH,20241231,中国大陆,D,3875889313.76,671658044.91,3204231268.85,CNY
 688772.SH,20241231,直销,455006000,11182337925.53,2906024810.23,8276313115.3,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601929.SH,20241231,直销,455006000,1981768513.18,356616817.51,1625151695.67,CNY
 601929.SH,20241231,有线电视服务,P,1981768513.18,356616817.51,1625151695.67,CNY
 601929.SH,20241231,有线电视行业,I,1981768513.18,356616817.51,1625151695.67,CNY

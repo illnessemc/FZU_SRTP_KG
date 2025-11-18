@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600278.SH,20241231,出口业务,455006000,21687271500.0,1156100000.0,20531171500.0,CNY
 600278.SH,20241231,服务及其他,455006000,88426000.0,67478900.0,20947100.0,CNY
 600278.SH,20241231,船舶租赁(销售模式),455006000,329236300.0,24694600.0,304541700.0,CNY

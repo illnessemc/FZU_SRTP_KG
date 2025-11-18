@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688469.SH,20241231,模组系列,P,601637694.5,-19010788.02,620648482.52,CNY
 688469.SH,20241231,其他业务,P,233007939.61,59383920.52,173624019.09,CNY
 688469.SH,20241231,其他业务(行业),I,233007939.61,59383920.52,173624019.09,CNY

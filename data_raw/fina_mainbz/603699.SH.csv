@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603699.SH,20241231,其他业务(行业),I,44027271.77,3956146.52,40071125.25,CNY
 603699.SH,20241231,工业阀门,I,6193719538.17,2372431964.71,3821287573.46,CNY
 603699.SH,20241231,中国大陆,D,2380419721.92,781355165.61,1599064556.31,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603312.SH,20241231,直销模式,455006000,2120312051.74,371366480.94,1748945570.8,CNY
 603312.SH,20241231,电器机械及器材制造业,I,2120312051.74,371366480.94,1748945570.8,CNY
 603312.SH,20241231,国外,D,153437633.7,50586293.75,102851339.95,CNY

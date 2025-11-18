@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300873.SZ,20241231,中国港澳台地区及海外地区,D,225434644.48,49558661.12,175875983.36,CNY
 300873.SZ,20241231,其他业务(地区),D,,,-3280715.55,CNY
 300873.SZ,20241231,新能源汽车行业,I,90700892.81,12353739.74,78347153.07,CNY

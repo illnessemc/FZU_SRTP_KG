@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688071.SH,20241231,国外,D,13573390.98,4463180.97,9110210.01,CNY
 688071.SH,20241231,其他业务(地区),D,1373553.73,100806.52,1272747.21,CNY
 688071.SH,20241231,其他业务,P,1373553.73,100806.52,1272747.21,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 002827.SZ,20250630,区内,D,633813412.31,205002272.19,428811140.12,CNY
 002827.SZ,20250630,河北省,D,256637.17,71921.76,184715.41,CNY
 002827.SZ,20250630,制氧设备(行业),I,3747337.92,1264252.39,2483085.53,CNY

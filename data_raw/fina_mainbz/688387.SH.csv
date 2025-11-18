@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688387.SH,20241231,中国大陆,D,6091669712.06,1318635706.88,4773034005.18,CNY
 688387.SH,20241231,通信,I,6439165917.75,1446713231.45,4992452686.3,CNY
 688387.SH,20241231,移动通信网络运维服务,P,378829309.35,50345385.87,328483923.48,CNY

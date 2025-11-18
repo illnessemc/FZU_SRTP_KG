@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603122.SH,20241231,其他(地区),D,4110333.77,2781523.54,1328810.23,CNY
 603122.SH,20241231,终端,455006000,893298976.43,176065821.96,717233154.47,CNY
 603122.SH,20241231,非终端客户,455006000,45487792.27,7874806.5,37612985.77,CNY

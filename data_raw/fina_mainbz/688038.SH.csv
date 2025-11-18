@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688038.SH,20241231,华北,D,24069140.46,7543179.21,16525961.25,CNY
 688038.SH,20241231,非运营商业务,455006000,207758168.66,56394717.54,151363451.12,CNY
 688038.SH,20241231,软件和信息技术服务业,I,342358488.44,78532319.24,263826169.2,CNY

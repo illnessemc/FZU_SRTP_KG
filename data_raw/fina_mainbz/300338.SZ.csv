@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300338.SZ,20241231,代理,455006000,703177.65,-780624.08,1483801.73,CNY
 300338.SZ,20241231,其他业务,P,-0.01,,-0.01,CNY
 300338.SZ,20241231,学历中介,P,17183245.89,7510987.06,9672258.83,CNY

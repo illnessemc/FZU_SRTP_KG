@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688682.SH,20241231,电磁场仿真分析验证业务,P,25009915.35,15931391.49,9078523.86,CNY
 688682.SH,20241231,其他业务,P,9231704.41,7428246.59,1803457.82,CNY
 688682.SH,20241231,其他业务(地区),D,9231704.41,7428246.59,1803457.82,CNY

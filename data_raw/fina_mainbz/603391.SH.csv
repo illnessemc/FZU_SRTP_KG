@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603391.SH,20241231,工业锅炉,P,996069424.68,412204270.6,583865154.08,CNY
 603391.SH,20241231,其他业务,P,2884422.05,,,CNY
 603391.SH,20241231,其他业务(地区),D,2884422.05,,,CNY

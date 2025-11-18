@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600433.SH,20241231,中国大陆,D,6492914168.08,571339534.65,5921574633.43,CNY
 600433.SH,20241231,特种功能材料,I,1404504497.71,168317294.44,1236187203.27,CNY
 600433.SH,20241231,其他业务,P,152460809.82,31155095.86,121305713.96,CNY

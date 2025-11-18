@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605365.SH,20241231,IoT产品,P,1711305128.37,512972538.9,1198332589.47,CNY
 605365.SH,20241231,LED光源,P,4363163740.71,1290087170.45,3073076570.26,CNY
 605365.SH,20241231,其他业务,P,78234290.15,6317833.24,71916456.91,CNY

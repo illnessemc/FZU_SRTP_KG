@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603662.SH,20241231,其他业务(行业),I,65026503.7,37294589.95,27731913.75,CNY
 603662.SH,20241231,平台型产品系列,P,10749849.19,4237780.67,6512068.52,CNY
 603662.SH,20241231,工业物联网及系统集成,P,532505171.1,233088815.26,299416355.84,CNY

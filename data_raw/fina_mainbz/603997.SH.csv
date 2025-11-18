@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603997.SH,20241231,商用车座椅,P,5404265504.09,789571757.94,4614693746.15,CNY
 603997.SH,20241231,汽车内饰,P,7348317750.05,782928395.59,6565389354.46,CNY
 603997.SH,20241231,头枕,P,4227535568.88,727813409.24,3499722159.64,CNY

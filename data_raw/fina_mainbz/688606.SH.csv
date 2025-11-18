@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688606.SH,20241231,中国大陆,D,43271676.25,25625668.4,17646007.85,CNY
 688606.SH,20241231,体外诊断行业,I,862367775.9,480821446.31,381546329.59,CNY
 688606.SH,20241231,心脏标志物检测类,P,13850321.83,10046822.31,3803499.52,CNY

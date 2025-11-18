@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688298.SH,20241231,POCT即时诊断试剂,P,811277621.43,257612561.84,553665059.59,CNY
 688298.SH,20241231,中国大陆,D,206561878.39,112078042.69,94483835.7,CNY
 688298.SH,20241231,体外诊断行业,I,811277621.43,257612561.84,553665059.59,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603025.SH,20241231,其他业务,P,44384694.63,38340758.73,6043935.9,CNY
 603025.SH,20241231,网络安全设备,P,265041886.75,50421071.5,214620815.25,CNY
 603025.SH,20241231,华北,D,156767900.8,43978021.75,112789879.05,CNY

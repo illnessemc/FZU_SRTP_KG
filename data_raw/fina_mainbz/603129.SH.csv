@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603129.SH,20241231,中国大陆,D,3874081547.26,824234336.17,3049847211.09,CNY
 603129.SH,20241231,北美,D,4535094525.76,1664619442.62,2870475083.14,CNY
 603129.SH,20241231,两轮车,P,6434537947.93,1395077649.11,5039460298.82,CNY

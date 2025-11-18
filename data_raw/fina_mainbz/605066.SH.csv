@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605066.SH,20241231,华北,D,387019891.01,95153605.63,291866285.38,CNY
 605066.SH,20241231,华东,D,1213307261.42,286688294.69,926618966.73,CNY
 605066.SH,20241231,配电电器,P,1211390275.17,297445854.7,913944420.47,CNY

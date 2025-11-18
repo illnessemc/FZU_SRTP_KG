@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603282.SH,20241231,国外,D,94438479.04,61712401.84,32726077.2,CNY
 603282.SH,20241231,制药机械,I,184054223.39,54422389.3,129631834.09,CNY
 603282.SH,20241231,中国大陆,D,705795343.51,212047946.75,493747396.76,CNY

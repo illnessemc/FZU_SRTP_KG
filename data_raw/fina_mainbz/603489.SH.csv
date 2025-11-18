@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603489.SH,20241231,中国大陆,D,936209899.15,217504768.22,718705130.93,CNY
 603489.SH,20241231,运输费(地区),D,,,13796120.89,CNY
 603489.SH,20241231,电池,P,135003671.05,17622717.18,117380953.87,CNY

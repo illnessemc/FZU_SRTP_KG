@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600509.SH,20241231,电,P,6435118557.24,1273283101.89,5161835455.35,CNY
 600509.SH,20241231,供水,P,154260646.63,17028756.48,137231890.15,CNY
 600509.SH,20241231,石河子,D,8921649801.05,1457060888.68,7464588912.37,CNY

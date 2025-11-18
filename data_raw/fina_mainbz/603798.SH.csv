@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603798.SH,20241231,华北,D,228647123.48,23747321.13,204899802.35,CNY
 603798.SH,20241231,西北,D,56373560.26,16918862.73,39454697.53,CNY
 603798.SH,20241231,工业润滑油,P,94418517.39,8185372.83,86233144.56,CNY

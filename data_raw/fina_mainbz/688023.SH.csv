@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688023.SH,20241231,第三方硬件产品,P,69701055.34,6627900.91,63073154.43,CNY
 688023.SH,20241231,西南,D,167900351.44,98517856.67,69382494.77,CNY
 688023.SH,20241231,华北,D,384874336.11,210365959.65,174508376.46,CNY

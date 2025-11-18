@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600594.SH,20241231,医疗(行业),I,466655584.69,102103929.03,364551655.66,CNY
 600594.SH,20241231,其他业务(地区),D,23867653.17,14637681.07,9229972.1,CNY
 600594.SH,20241231,抗肿瘤类,P,612257835.9,541102055.57,71155780.33,CNY

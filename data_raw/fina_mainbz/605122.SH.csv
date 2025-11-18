@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605122.SH,20241231,商品砼,P,1294881568.27,182785776.39,1112095791.88,CNY
 605122.SH,20241231,沥青混凝土,P,30459261.48,3047077.71,27412183.77,CNY
 605122.SH,20241231,非金属矿物制品业,I,1405401108.21,191599385.26,1213801722.95,CNY

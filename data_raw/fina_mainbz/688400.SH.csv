@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688400.SH,20241231,机器视觉,I,1620932784.22,595261197.7,1025671586.52,CNY
 688400.SH,20241231,智能视觉装备,P,775000723.3,292237852.26,482762871.04,CNY
 688400.SH,20241231,可配置视觉系统,P,691785570.46,263220652.61,428564917.85,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603366.SH,20241231,在某一时点确认收入,455006000,3492082225.15,1078331067.5,2413751157.65,CNY
 603366.SH,20241231,光伏产品,P,195018170.59,-49704278.44,244722449.03,CNY
 603366.SH,20241231,其他业务(销售模式),455006000,349288157.11,86700761.58,262587395.53,CNY

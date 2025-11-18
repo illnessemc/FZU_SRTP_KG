@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603701.SH,20241231,发电机,P,542874940.05,49731926.26,493143013.79,CNY
 603701.SH,20241231,电子真空泵及配件,P,128035521.97,43679225.54,84356296.43,CNY
 603701.SH,20241231,其他业务,P,8816682.14,4456449.74,4360232.4,CNY

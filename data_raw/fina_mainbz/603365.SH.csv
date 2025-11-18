@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603365.SH,20241231,西北,D,100766102.84,40319921.42,60446181.42,CNY
 603365.SH,20241231,其他业务,P,6341630.98,101441.3,6240189.68,CNY
 603365.SH,20241231,其他业务(销售模式),455006000,2304989952.4,987620000.33,1317369952.07,CNY

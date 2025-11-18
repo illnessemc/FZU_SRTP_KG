@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688120.SH,20241231,直销,455006000,3406228610.47,1471577865.56,1934650744.91,CNY
 688120.SH,20241231,国外,D,87887360.21,46416116.41,41471243.8,CNY
 688120.SH,20241231,半导体行业,I,3406228610.47,1471577865.56,1934650744.91,CNY

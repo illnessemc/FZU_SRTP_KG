@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 003008.SZ,20250630,东北,D,788698.11,,,CNY
 003008.SZ,20250630,电力系统保护与控制设备检测,P,79968443.36,52987775.03,26980668.33,CNY
 003008.SZ,20250630,其他业务,P,619646.13,50499.78,569146.35,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605151.SH,20241231,其他业务(地区),D,44541492.2,12568257.47,31973234.73,CNY
 605151.SH,20241231,整车仓储及运营,P,146529477.58,27335867.39,119193610.19,CNY
 605151.SH,20241231,华中,D,155034794.15,28439164.3,126595629.85,CNY

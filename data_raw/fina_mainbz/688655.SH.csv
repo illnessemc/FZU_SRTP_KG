@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688655.SH,20241231,贸易商,455006000,78735109.49,6917182.55,71817926.94,CNY
 688655.SH,20241231,电子产品制造商,455006000,373727742.19,57941467.47,315786274.72,CNY
 688655.SH,20241231,印制电路板,P,452462851.68,64858650.02,387604201.66,CNY

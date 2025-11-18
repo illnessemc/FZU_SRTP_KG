@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600163.SH,20241231,风力发电,P,1674430365.06,1026684489.26,647745875.8,CNY
 600163.SH,20241231,其他业务,P,28096148.95,48106.44,28048042.51,CNY
 600163.SH,20241231,电力行业,I,1713111957.79,1003582007.35,709529950.44,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603051.SH,20241231,其他业务(地区),D,17716739.67,-4828178.17,22544917.84,CNY
 603051.SH,20241231,其他业务(行业),I,17716739.67,-4828178.17,22544917.84,CNY
 603051.SH,20241231,热熔胶膜,P,1186328695.7,31134869.47,1155193826.23,CNY

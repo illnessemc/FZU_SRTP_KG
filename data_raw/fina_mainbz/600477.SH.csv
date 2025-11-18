@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600477.SH,20241231,东北,D,12664700.0,766300.0,11898400.0,CNY
 600477.SH,20241231,华中,D,1572558000.0,79108900.0,1493449100.0,CNY
 600477.SH,20241231,西北,D,387607800.0,83091100.0,304516700.0,CNY

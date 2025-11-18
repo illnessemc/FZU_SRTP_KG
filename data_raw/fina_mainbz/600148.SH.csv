@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600148.SH,20241231,华北,D,37515878.8,5907316.94,31608561.86,CNY
 600148.SH,20241231,离合器,P,369437045.73,65830658.14,303606387.59,CNY
 600148.SH,20241231,东北,D,121815810.14,38984179.52,82831630.62,CNY

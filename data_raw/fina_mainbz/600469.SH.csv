@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600469.SH,20241231,中国大陆,D,3315449544.04,224198096.01,3091251448.03,CNY
 600469.SH,20241231,经销产品及其他,455006000,5653139194.44,1076421207.19,4576717987.25,CNY
 600469.SH,20241231,轮胎,P,6482129244.98,1126027273.87,5356101971.11,CNY

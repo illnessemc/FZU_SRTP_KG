@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688097.SH,20241231,国外,D,2118951052.47,751338921.45,1367612131.02,CNY
 688097.SH,20241231,中国大陆,D,2829293892.0,949441315.82,1879852576.18,CNY
 688097.SH,20241231,核心零部件,P,82469716.66,17410504.67,65059211.99,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603665.SH,20241231,锂盐产品加工,P,62155733.9,6249244.96,55906488.94,CNY
 603665.SH,20241231,中国大陆,D,333785997.52,-20528850.19,354314847.71,CNY
 603665.SH,20241231,其他主营业务,P,161397716.07,-3999809.4,165397525.47,CNY

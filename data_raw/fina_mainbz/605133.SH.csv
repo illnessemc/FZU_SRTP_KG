@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605133.SH,20241231,设备,P,160115007.62,64659065.74,95455941.88,CNY
 605133.SH,20241231,车用模具,P,202492321.48,96590795.79,105901525.69,CNY
 605133.SH,20241231,国外,D,944897665.31,261253890.21,683643775.1,CNY

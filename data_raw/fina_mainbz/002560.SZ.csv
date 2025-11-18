@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 002560.SZ,20250630,机械加工产品,P,97954119.43,33975233.78,63978885.65,CNY
 002560.SZ,20250630,华北,D,342980246.9,30656597.47,312323649.43,CNY
 002560.SZ,20250630,祼导线,P,950051424.86,113649534.49,836401890.37,CNY

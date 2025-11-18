@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688668.SH,20241231,模具及配件,P,16986475.25,5488752.59,11497722.66,CNY
 688668.SH,20241231,精密模具,P,56313959.36,13692733.09,42621226.27,CNY
 688668.SH,20241231,汽车连接器组件,P,266373068.51,62585645.2,203787423.31,CNY

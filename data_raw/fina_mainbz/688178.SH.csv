@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688178.SH,20241231,有机垃圾,P,156208161.19,32784364.11,123423797.08,CNY
 688178.SH,20241231,环保行业,I,617316770.99,114646527.2,502670243.79,CNY
 688178.SH,20241231,其他业务(行业),I,4264596.58,2942690.79,1321905.79,CNY

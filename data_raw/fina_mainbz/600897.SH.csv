@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600897.SH,20241231,租赁及特许权收入(行业),I,439845501.32,309665280.08,130180221.24,CNY
 600897.SH,20241231,其他(行业),I,36023132.73,32558594.94,3464537.79,CNY
 600897.SH,20241231,货站及货服业务(行业),I,143413234.54,66761195.38,76652039.16,CNY

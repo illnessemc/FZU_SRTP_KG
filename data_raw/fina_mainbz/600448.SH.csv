@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600448.SH,20241231,中国大陆,D,780256602.94,108808768.51,671447834.43,CNY
 600448.SH,20241231,其他主营业务,P,44094225.03,4410707.4,39683517.63,CNY
 600448.SH,20241231,印染产品,P,2018471777.97,348678864.43,1669792913.54,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603060.SH,20241231,检测,P,1867232110.01,834854557.55,1032377552.46,CNY
 603060.SH,20241231,其他业务,P,4897444.46,3461626.76,1435817.7,CNY
 603060.SH,20241231,其他业务(地区),D,4897444.46,3461626.77,1435817.69,CNY

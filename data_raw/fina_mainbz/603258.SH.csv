@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603258.SH,20241231,国外,D,38995853.65,13815893.98,25179959.67,CNY
 603258.SH,20241231,客户端游戏,P,370145064.24,308189673.99,61955390.25,CNY
 603258.SH,20241231,移动网络游戏,P,162435341.79,74535641.74,87899700.05,CNY

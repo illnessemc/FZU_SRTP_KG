@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688161.SH,20241231,医疗器械制造业,I,1450508700.0,953643400.0,496865300.0,CNY
 688161.SH,20241231,配送,455006000,125485800.0,103714000.0,21771800.0,CNY
 688161.SH,20241231,经销,455006000,1281699300.0,819167000.0,462532300.0,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688393.SH,20241231,外购产品,P,61708832.11,14214728.92,47494103.19,CNY
 688393.SH,20241231,其他业务(行业),I,5992660.44,3727195.38,2265465.06,CNY
 688393.SH,20241231,自产产品,P,375315298.69,288163107.62,87152191.07,CNY

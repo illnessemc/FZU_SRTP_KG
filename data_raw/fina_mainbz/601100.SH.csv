@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601100.SH,20241231,液压系统,P,296497915.84,112865122.19,183632793.65,CNY
 601100.SH,20241231,油缸配件,P,683988818.58,99482913.86,584505904.72,CNY
 601100.SH,20241231,其他业务(地区),D,65109079.22,61130714.22,3978365.0,CNY

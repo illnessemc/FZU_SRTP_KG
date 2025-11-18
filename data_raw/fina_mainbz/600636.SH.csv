@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600636.SH,20241231,其他业务,P,3058925.39,1226090.47,1832834.92,CNY
 600636.SH,20241231,其他业务(行业),I,3058925.39,1226090.47,1832834.92,CNY
 600636.SH,20241231,教育信息化,I,279894671.06,206281892.43,73612778.63,CNY

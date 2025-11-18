@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600825.SH,20241231,其他收入,P,23425985.84,11081302.6,12344683.24,CNY
 600825.SH,20241231,上海地区,D,1175792062.45,396278984.16,779513078.29,CNY
 600825.SH,20241231,其他业务,P,159338230.26,106050606.06,53287624.2,CNY

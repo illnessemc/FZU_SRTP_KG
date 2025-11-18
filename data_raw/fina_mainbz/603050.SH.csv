@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603050.SH,20241231,华中,D,377528246.89,91029098.79,286499148.1,CNY
 603050.SH,20241231,直销模式,455006000,4064459684.94,861239428.24,3203220256.7,CNY
 603050.SH,20241231,西南,D,186540101.36,27976519.67,158563581.69,CNY

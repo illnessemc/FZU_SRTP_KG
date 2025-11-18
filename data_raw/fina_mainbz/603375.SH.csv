@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603375.SH,20241231,西南,D,117861557.82,42971364.87,74890192.95,CNY
 603375.SH,20241231,华东,D,74503968.07,25065358.14,49438609.93,CNY
 603375.SH,20241231,西北,D,72221944.35,24300525.0,47921419.35,CNY

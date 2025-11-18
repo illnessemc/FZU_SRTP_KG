@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688045.SH,20241231,集成电路,I,684959319.39,175465638.89,509493680.5,CNY
 688045.SH,20241231,DC-DC,P,27099970.74,4787994.48,22311976.26,CNY
 688045.SH,20241231,其他主营业务,P,1496323.13,59137.83,1437185.3,CNY

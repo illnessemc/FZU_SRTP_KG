@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688590.SH,20241231,直接销售,455006000,1993255500.0,502897000.0,1490358500.0,CNY
 688590.SH,20241231,海外行业,I,71290200.0,8723100.0,62567100.0,CNY
 688590.SH,20241231,企服行业,I,692217600.0,188434000.0,503783600.0,CNY

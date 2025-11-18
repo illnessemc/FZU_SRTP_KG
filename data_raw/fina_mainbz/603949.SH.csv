@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603949.SH,20241231,中国大陆,D,354756793.93,112842680.67,241914113.26,CNY
 603949.SH,20241231,国外,D,5194083.79,2956174.47,2237909.32,CNY
 603949.SH,20241231,汽车轻量化吹塑系列产品,P,32048147.2,3515065.98,28533081.22,CNY

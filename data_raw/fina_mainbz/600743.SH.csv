@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600743.SH,20241231,物业费,P,44736800.0,8477800.0,36259000.0,CNY
 600743.SH,20241231,其他业务,P,58400704.62,21856769.79,36543934.83,CNY
 600743.SH,20241231,南部,D,1214712800.0,298629300.0,916083500.0,CNY

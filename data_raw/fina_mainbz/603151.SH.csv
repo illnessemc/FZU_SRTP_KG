@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603151.SH,20241231,饲料行业,I,2480474858.82,227491950.9,2252982907.92,CNY
 603151.SH,20241231,其他饲料,P,169391334.68,15293817.08,154097517.6,CNY
 603151.SH,20241231,猪用预混料,P,52039525.6,8441309.14,43598216.46,CNY

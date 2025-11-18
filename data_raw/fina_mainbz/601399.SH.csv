@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601399.SH,20241231,工程收入与技术服务收入,I,4501761398.09,480547053.37,4021214344.72,CNY
 601399.SH,20241231,其他业务(销售模式),455006000,282857047.4,42477032.93,240380014.47,CNY
 601399.SH,20241231,机械制造-专用设备制造,I,7350593149.89,1033257906.59,6317335243.3,CNY

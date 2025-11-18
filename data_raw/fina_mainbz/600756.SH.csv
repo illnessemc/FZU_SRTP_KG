@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600756.SH,20241231,电子政务(行业),I,1431906873.2,515096401.03,916810472.17,CNY
 600756.SH,20241231,东部,D,614274987.64,226207984.14,388067003.5,CNY
 600756.SH,20241231,其他(行业),I,103193319.3,11105958.05,92087361.25,CNY

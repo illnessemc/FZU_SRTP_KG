@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601096.SH,20241231,角钢塔,P,7677993787.12,545044460.53,7132949326.59,CNY
 601096.SH,20241231,直销,455006000,9897354563.3,663372536.12,9233982027.18,CNY
 601096.SH,20241231,输电线路铁塔,I,9897354563.3,663372536.12,9233982027.18,CNY

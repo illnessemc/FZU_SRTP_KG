@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600960.SH,20241231,国外,D,1861649227.63,-427235654.72,2288884882.35,CNY
 600960.SH,20241231,其他业务(销售模式),455006000,158596441.61,20958323.63,137638117.98,CNY
 600960.SH,20241231,汽车零部件制造业,I,4068831432.5,-136040443.97,4204871876.47,CNY

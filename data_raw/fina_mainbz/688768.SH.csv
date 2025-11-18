@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688768.SH,20241231,冶金,I,104534738.64,68234099.54,36300639.1,CNY
 688768.SH,20241231,水泥,I,28891050.23,18634141.55,10256908.68,CNY
 688768.SH,20241231,其他主营业务,P,68476755.03,44811393.0,23665362.03,CNY

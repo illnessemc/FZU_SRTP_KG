@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603203.SH,20241231,中国大陆,D,772868492.12,360408639.52,412459852.6,CNY
 603203.SH,20241231,国外,D,172065639.82,99342852.9,72722786.92,CNY
 603203.SH,20241231,专用设备制造业,I,944934131.94,459751492.42,485182639.52,CNY

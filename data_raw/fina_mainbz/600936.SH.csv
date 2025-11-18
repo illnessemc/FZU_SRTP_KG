@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600936.SH,20241231,其他业务,P,9679953.38,,,CNY
 600936.SH,20241231,收视维护费收入,P,427662292.36,,,CNY
 600936.SH,20241231,其他业务(行业),I,9679953.38,2701601.02,6978352.36,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603466.SH,20241231,数字化体验,I,1376388874.26,316344679.82,1060044194.44,CNY
 603466.SH,20241231,华北,D,160519499.21,5717517.49,154801981.72,CNY
 603466.SH,20241231,华南,D,67069464.77,12251359.48,54818105.29,CNY

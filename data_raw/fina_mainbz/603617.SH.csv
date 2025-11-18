@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603617.SH,20241231,制造业,I,1082385891.05,258448912.01,823936979.04,CNY
 603617.SH,20241231,其他业务(地区),D,28642160.37,5777146.47,22865013.9,CNY
 603617.SH,20241231,北美,D,283934171.41,80059041.73,203875129.68,CNY

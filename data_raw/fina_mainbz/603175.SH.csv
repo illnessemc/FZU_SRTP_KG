@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603175.SH,20241231,其他业务-其他产品,P,1412445.77,683111.16,729334.61,CNY
 603175.SH,20241231,废料收入,P,176838034.94,,,CNY
 603175.SH,20241231,其他业务(销售模式),455006000,178250457.32,,,CNY

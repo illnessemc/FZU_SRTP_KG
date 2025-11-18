@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605555.SH,20241231,小家电,P,1386438892.36,246728639.46,1139710252.9,CNY
 605555.SH,20241231,国外,D,3560196428.95,599046930.5,2961149498.45,CNY
 605555.SH,20241231,吸尘器,P,2124154706.14,332893241.93,1791261464.21,CNY

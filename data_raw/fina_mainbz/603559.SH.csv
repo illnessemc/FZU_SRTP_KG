@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603559.SH,20241231,IDC增值与运维,P,20427742.19,2765027.91,17662714.28,CNY
 603559.SH,20241231,通信网络维护服务,P,11586743.95,399544.13,11187199.82,CNY
 603559.SH,20241231,其他业务(行业),I,4931872.46,2533108.12,2398764.34,CNY

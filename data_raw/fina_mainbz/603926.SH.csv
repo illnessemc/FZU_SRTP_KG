@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603926.SH,20241231,汽车零部件自动化生产线,I,1469251987.96,324318216.75,1144933771.21,CNY
 603926.SH,20241231,高精密金属零部件,P,185474466.26,-11631080.82,197105547.08,CNY
 603926.SH,20241231,汽车传动系统,P,1283777521.7,335949297.57,947828224.13,CNY

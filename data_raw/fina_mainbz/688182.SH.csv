@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688182.SH,20241231,其他业务(行业),I,3404870.2,3310134.64,94735.56,CNY
 688182.SH,20241231,华南,D,320111637.48,75902618.35,244209019.13,CNY
 688182.SH,20241231,HTCC产品,P,13718186.81,6417194.11,7300992.7,CNY

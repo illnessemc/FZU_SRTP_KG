@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688289.SH,20241231,检测服务,P,66378939.15,12577595.44,53801343.71,CNY
 688289.SH,20241231,体外诊断行业,I,1423921050.9,1118978742.99,304942307.91,CNY
 688289.SH,20241231,国外,D,63114860.66,41093845.1,22021015.56,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600816.SH,20241231,其他业务(行业),I,4684684.68,,,CNY
 600816.SH,20241231,其他业务,P,4684684.68,,,CNY
 600816.SH,20241231,金融信托业(地区),D,305649057.13,,,CNY

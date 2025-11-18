@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603580.SH,20241231,环保精密带,P,89279831.95,37562285.46,51717546.49,CNY
 603580.SH,20241231,国外,D,102329228.6,35655971.02,66673257.58,CNY
 603580.SH,20241231,工业收入,I,165882917.06,55888352.23,109994564.83,CNY

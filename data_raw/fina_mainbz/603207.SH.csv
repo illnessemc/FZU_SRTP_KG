@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603207.SH,20241231,直销,455006000,72064000.79,46878315.2,25185685.59,CNY
 603207.SH,20241231,东北,D,42679568.27,26431067.65,16248500.62,CNY
 603207.SH,20241231,药品制剂,I,474228256.26,311038647.78,163189608.48,CNY

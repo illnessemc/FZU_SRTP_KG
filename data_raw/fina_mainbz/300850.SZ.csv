@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300850.SZ,20250630,风电发电机组用传动组件,P,573082.0,159055.26,414026.74,CNY
 300850.SZ,20250630,电力行业,I,25512353.33,11458722.09,14053631.24,CNY
 300850.SZ,20250630,风电发电机组用传动组件(行业),I,573082.0,159055.26,414026.74,CNY

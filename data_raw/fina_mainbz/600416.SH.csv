@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600416.SH,20241231,机械行业,I,4652292553.48,821596099.31,3830696454.17,CNY
 600416.SH,20241231,电控,P,195771064.46,11305274.03,184465790.43,CNY
 600416.SH,20241231,电机,P,2494070735.66,368509637.69,2125561097.97,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603036.SH,20241231,提升设备,P,163552461.26,78939912.95,84612548.31,CNY
 603036.SH,20241231,其他业务,P,1467459.24,1360976.84,106482.4,CNY
 603036.SH,20241231,石油钻采设备,I,406867090.3,186392376.2,220474714.1,CNY

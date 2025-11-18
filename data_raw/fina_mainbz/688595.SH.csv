@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688595.SH,20241231,直销,455006000,72467369.96,26434963.75,46032406.21,CNY
 688595.SH,20241231,经销,455006000,629625361.06,213224719.98,416400641.08,CNY
 688595.SH,20241231,集成电路(行业),I,702092731.02,239659683.73,462433047.29,CNY

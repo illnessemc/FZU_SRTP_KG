@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600372.SH,20241231,国外,D,904718991.42,188818794.73,715900196.69,CNY
 600372.SH,20241231,航空产品,P,19522248816.4,5652525004.84,13869723811.56,CNY
 600372.SH,20241231,其他业务(行业),I,2004079449.63,590188223.79,1413891225.84,CNY

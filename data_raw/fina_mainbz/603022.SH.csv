@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603022.SH,20241231,第三方采购产品,P,73287819.25,13268995.14,60018824.11,CNY
 603022.SH,20241231,其他,P,47056601.42,7097097.65,39959503.77,CNY
 603022.SH,20241231,中国大陆,D,809930803.71,150264437.04,659666366.67,CNY

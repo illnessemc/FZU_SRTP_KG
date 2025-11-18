@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688390.SH,20241231,直销,455006000,4825438240.93,713620652.57,4111817588.36,CNY
 688390.SH,20241231,光伏储能逆变器,P,461660197.77,229548164.88,232112032.89,CNY
 688390.SH,20241231,储能电池,P,472911343.49,150313604.9,322597738.59,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600844.SH,20250630,华东,D,376452672.48,-33039772.57,409492445.05,CNY
 600844.SH,20250630,华中,D,1814381.07,297727.45,1516653.62,CNY
 600844.SH,20250630,乙二醇,P,325847194.47,-65906921.39,391754115.86,CNY

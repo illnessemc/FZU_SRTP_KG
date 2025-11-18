@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 300047.SZ,20250630,其他业务(地区),D,16563774.95,1465776.77,15097998.18,CNY
 300047.SZ,20250630,政府行业,I,26548278.82,6090197.41,20458081.41,CNY
 300047.SZ,20250630,国外,D,35080808.74,12363597.64,22717211.1,CNY

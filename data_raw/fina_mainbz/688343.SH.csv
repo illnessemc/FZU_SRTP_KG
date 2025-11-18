@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688343.SH,20241231,西南,D,110977700.0,24075900.0,86901800.0,CNY
 688343.SH,20241231,西北,D,114100.0,70700.0,43400.0,CNY
 688343.SH,20241231,华中,D,308345300.0,40394000.0,267951300.0,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603598.SH,20241231,中国港澳台地区及海外地区,D,49487623.74,3115147.34,46372476.4,CNY
 603598.SH,20241231,东北,D,25440844.96,2923076.36,22517768.6,CNY
 603598.SH,20241231,西北,D,135310258.19,3010481.87,132299776.32,CNY

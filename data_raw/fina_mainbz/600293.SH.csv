@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600293.SH,20241231,其他业务(地区),D,25211162.95,22863965.17,2347197.78,CNY
 600293.SH,20241231,平板玻璃及玻璃深加工产品,P,1708111300.0,117905100.0,1590206200.0,CNY
 600293.SH,20241231,玻璃制造,I,1708111300.0,117905100.0,1590206200.0,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600307.SH,20241231,焦化产品,I,812331178.15,17889435.74,794441742.41,CNY
 600307.SH,20241231,卷板,P,9101520126.93,570973106.15,8530547020.78,CNY
 600307.SH,20241231,焦炭,P,9460506.2,263514.82,9196991.38,CNY

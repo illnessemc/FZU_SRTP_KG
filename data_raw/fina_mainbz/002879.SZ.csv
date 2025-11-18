@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 002879.SZ,20250630,东北,D,29464337.87,9734600.31,19729737.56,CNY
 002879.SZ,20250630,西南,D,35995083.9,10121065.85,25874018.05,CNY
 002879.SZ,20250630,国外,D,5573975.43,2726375.43,2847600.0,CNY

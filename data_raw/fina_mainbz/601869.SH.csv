@@ -1,7 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
-601869.SH,20250630,其他主营业务,P,1093853658.0,,,CNY
-601869.SH,20250630,光互联组件,P,1443809240.0,,,CNY
-601869.SH,20250630,光传输产品,P,3846811829.0,,,CNY
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 601869.SH,20250630,其他主营业务,P,1093853658.0,,,CNY
 601869.SH,20250630,光互联组件,P,1443809240.0,,,CNY
 601869.SH,20250630,光传输产品,P,3846811829.0,,,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688373.SH,20241231,中国大陆,D,130272762.01,107867561.07,22405200.94,CNY
 688373.SH,20241231,医药制造,I,130272762.01,107867561.07,22405200.94,CNY
 688373.SH,20241231,经销商渠道,455006000,130272762.01,107867561.07,22405200.94,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688030.SH,20241231,其他业务,P,8812011.28,110915.72,8701095.56,CNY
 688030.SH,20241231,边界安全产品,P,748337988.73,538598794.54,209739194.19,CNY
 688030.SH,20241231,西北,D,23496553.98,16823496.77,6673057.21,CNY

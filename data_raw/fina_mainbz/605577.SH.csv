@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605577.SH,20241231,物资贸易,P,24972914.05,840478.23,24132435.82,CNY
 605577.SH,20241231,出版,I,851256184.81,247876421.51,603379763.3,CNY
 605577.SH,20241231,征订,455006000,1188447809.65,550155512.99,638292296.66,CNY

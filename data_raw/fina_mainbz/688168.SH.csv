@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 688168.SH,20241231,其他业务(地区),D,874297.29,526844.32,347452.97,CNY
 688168.SH,20241231,其他(地区),D,28231522.74,20505500.12,7726022.62,CNY
 688168.SH,20241231,网络安全,I,735878389.78,485408512.75,250469877.03,CNY

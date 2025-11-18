@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600761.SH,20241231,其他业务(地区),D,211915699.26,84705006.31,127210692.95,CNY
 600761.SH,20241231,国外,D,6927878247.93,1814814198.02,5113064049.91,CNY
 600761.SH,20241231,叉车等及配件,P,17113505420.6,3979239619.98,13134265800.62,CNY

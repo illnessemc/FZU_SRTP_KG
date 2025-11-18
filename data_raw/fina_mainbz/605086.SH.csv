@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 605086.SH,20241231,直销,455006000,236280832.53,143087195.38,93193637.15,CNY
 605086.SH,20241231,华东,D,254380421.27,152959205.27,101421216.0,CNY
 605086.SH,20241231,贸易商,455006000,81786648.89,49798907.09,31987741.8,CNY

@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 603211.SH,20241231,国外,D,482932338.0,94902488.66,388029849.34,CNY
 603211.SH,20241231,模具,P,49676963.11,24737712.63,24939250.48,CNY
 603211.SH,20241231,工业类零部件,P,166283773.17,25406326.41,140877446.76,CNY

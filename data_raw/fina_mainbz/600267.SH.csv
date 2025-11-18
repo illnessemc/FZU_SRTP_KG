@@ -1,4 +1,4 @@
-ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
+﻿ts_code,end_date,bz_item,bz_code,bz_sales,bz_profit,bz_cost,curr_type
 600267.SH,20241231,其他业务(行业),I,215216550.15,41007475.47,174209074.68,CNY
 600267.SH,20241231,CMO/CDMO/CRO业务(行业),I,7961268.81,4676015.94,3285252.87,CNY
 600267.SH,20241231,非海正药品,P,3509593180.83,681204088.59,2828389092.24,CNY
