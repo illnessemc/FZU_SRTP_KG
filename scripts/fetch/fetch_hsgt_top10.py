@@ -9,9 +9,11 @@ pro = ts.pro_api()
 ######文件目录获取
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(os.path.dirname(script_dir))
-data_raw_dir=os.path.join(project_root,"data_raw")
+data_dir = os.path.join(project_root, "data")
+data_raw_dir=os.path.join(data_dir,"data_raw")
 config_dir=os.path.join(project_root,"config")
 
+os.makedirs(data_dir,exist_ok=True)
 os.makedirs(data_raw_dir, exist_ok=True)
 
 hsgt_top10_dir=os.path.join(data_raw_dir,"hsgt_top10")

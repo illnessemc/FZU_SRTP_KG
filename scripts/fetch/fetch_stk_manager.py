@@ -10,9 +10,11 @@ pro = ts.pro_api()
 ######文件目录获取
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(os.path.dirname(script_dir))
-data_raw_dir=os.path.join(project_root,"data_raw")
+data_dir = os.path.join(project_root, "data")
+data_raw_dir=os.path.join(data_dir,"data_raw")
 config_dir=os.path.join(project_root,"config")
 
+os.makedirs(data_dir,exist_ok=True)
 os.makedirs(data_raw_dir, exist_ok=True)
 
 mangers_dir=os.path.join(data_raw_dir,"stk_managers")
@@ -38,7 +40,7 @@ for code in codes:
         df = pro.stk_managers(ts_code=code)
         if df is None or len(df) == 0:
             continue
-        date_cols = [c for c in ["begin_date", "end_date"] if c in df.columns]
+        date_cols = [c for c in ["begin_date", "end_date","ann_date"] if c in df.columns]
         for c in date_cols:
             df[c] = fill_empty_date(df[c])
         df.to_csv(f"{mangers_dir}/{code}.csv", index=False, encoding="utf-8-sig")

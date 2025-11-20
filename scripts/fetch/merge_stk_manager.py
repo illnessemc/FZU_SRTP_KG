@@ -5,7 +5,8 @@ import glob
 def merge_stk_manager():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
-    data_raw_dir = os.path.join(project_root, "data_raw")
+    data_dir = os.path.join(project_root, "data")
+    data_raw_dir = os.path.join(data_dir, "data_raw")
     managers_dir = os.path.join(data_raw_dir, "stk_managers")
     out_path = os.path.join(data_raw_dir, "stk_managers_all.csv")
     print(managers_dir)
