@@ -12,7 +12,7 @@ output_dir = os.path.join(data_dir, "data_quadruples")
 os.makedirs(data_dir,exist_ok=True)
 os.makedirs(output_dir, exist_ok=True)
 
-# 读取 stock_basic（轻清洗版）
+# 读取 stock_basic
 basic_path = os.path.join(data_raw_dir, "stock_basic.csv")
 df = pd.read_csv(basic_path, dtype=str).fillna("None")
 
