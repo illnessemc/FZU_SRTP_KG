@@ -28,6 +28,11 @@ quadruples = []
 def add_q(head, relation, tail, time):
     quadruples.append([head, relation, tail, time])
 
+def date_to_month(t):
+    if t == "None":
+        return "None"
+    t = str(t)
+    return t[:6] if len(t) >= 6 else "None"
 #####遍历数构建四元组
 
 for _, row in df_fina.iterrows():
@@ -35,21 +40,12 @@ for _, row in df_fina.iterrows():
     ts_code = row["ts_code"]
     company = code2name.get(ts_code, ts_code)
     bz_item=row["bz_item"]
-    bz_sales=row["bz_sales"]
-    bz_profit=row["bz_profit"]
-    bz_cost=row["bz_cost"]
     end_date = row["end_date"]
     if bz_item == "None":
         continue
-    time_str = end_date
+    time_str = date_to_month(end_date)
     if (bz_item != "None"):
         add_q(company, "主营业务", bz_item, time_str)
-    if (bz_sales != "None"):
-        add_q(company,"收入",bz_sales, time_str)
-    if (bz_profit != "None"):
-        add_q(company,"利润",bz_profit, time_str)
-    if (bz_cost != "None"):
-        add_q(company,"成本",bz_cost, time_str)
 # 保存四元组
 out_path = os.path.join(output_dir, "fina_mainbz_quadruples.csv")
 df_q = pd.DataFrame(quadruples, columns=["head", "relation", "tail", "time"])

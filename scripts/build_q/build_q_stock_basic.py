@@ -18,6 +18,12 @@ df = pd.read_csv(basic_path, dtype=str).fillna("None")
 
 quadruples = []
 
+def date_to_month(t):
+    if t == "None":
+        return "None"
+    t = str(t)
+    return t[:6] if len(t) >= 6 else "None"
+
 def add_q(head, relation, tail, time):
     quadruples.append([head, relation, tail, time])
 
@@ -28,8 +34,7 @@ for _, row in df.iterrows():
     industry = row["industry"]
     market = row["market"]
     area = row["area"]
-    time = row["list_date"] if row["list_date"] != "None" else "None"
-
+    time = date_to_month(row["list_date"])
     # 1. 行业
     if industry != "None":
         add_q(company, "industry", industry, time)
